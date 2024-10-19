@@ -1,0 +1,9 @@
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\bin\Debug\my note pad 2.exe.config
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\bin\Debug\my note pad 2.exe
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\bin\Debug\my note pad 2.pdb
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\obj\Debug\my note pad 2.csprojResolveAssemblyReference.cache
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\obj\Debug\my_note_pad_2.Form1.resources
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\obj\Debug\my_note_pad_2.Properties.Resources.resources
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\obj\Debug\my note pad 2.csproj.GenerateResource.Cache
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\obj\Debug\my note pad 2.exe
+C:\Users\pishro\Pictures\my note pad 2\my note pad 2\obj\Debug\my note pad 2.pdb
